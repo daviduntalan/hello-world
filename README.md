@@ -3,9 +3,9 @@ this is my first repository name 'hello-world' from github guides
 
 hello github,
 
-i'm david c. untalan jr. and i'm starting to learn how this repository works.
-
-i hope you'll be good to me. 
+I'm David C. Untalan Jr. and I'm starting to learn how this repository works.
+I'm following this tutorial from here: https://docs.github.com/en/get-started/start-your-journey/hello-world#introduction
+I hope you'll be good to me. 
 
 thanks! :)
 
